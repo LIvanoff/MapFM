@@ -15,6 +15,7 @@ ArXiv Preprint (arXiv 2506.15313)
 
 #
 ### News
+* **`14 July 2025`:** MapFM is accepted by HAIS 2025! 🎉
 * **`8 Jun 2025`:** We released preprint on Arxiv. Code/Models are coming soon. 🚀
 
 
