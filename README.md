@@ -15,6 +15,7 @@ ArXiv Preprint (arXiv 2506.15313)
 
 #
 ### News
+* **`16 Oct 2025`:** MapFM is released! 
 * **`14 July 2025`:** MapFM is accepted by HAIS 2025! 🎉
 * **`8 Jun 2025`:** We released preprint on Arxiv. Code/Models are coming soon. 🚀
 
@@ -28,9 +29,16 @@ In autonomous driving, high-definition (HD) maps and semantic maps in bird's-eye
 
 ## TODO
 
-- [ ] Release the code.
+- [x] Release the code.
 
 - [ ] Release pre-trained models.
+
+## Getting Started
+These settings keep the same as [MapTRv2](https://github.com/hustvl/MapTR/tree/maptrv2)
+- [Installation](docs/install.md)
+- [Prepare Dataset](docs/prepare_dataset.md)
+- [Train and Eval](docs/train_eval.md)
+- [Visualization](docs/visualization.md)
 
 
 ## Acknowledgements
@@ -42,6 +50,17 @@ MapFM is based on [mmdetection3d](https://github.com/open-mmlab/mmdetection3d). 
 
 If the paper and code help your research, please kindly cite:
 
+```BibTeX
+@misc{ivanov2025mapfmfoundationmodeldrivenhd,
+      title={MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning}, 
+      author={Leonid Ivanov and Vasily Yuryev and Dmitry Yudin},
+      year={2025},
+      eprint={2506.15313},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.15313}, 
+}
+```
 ```BibTeX
 @article{ivanov2025mapfm,
   title={MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning},
