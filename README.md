@@ -51,6 +51,16 @@ MapFM is based on [mmdetection3d](https://github.com/open-mmlab/mmdetection3d). 
 If the paper and code help your research, please kindly cite:
 
 ```BibTeX
+@inproceedings{ivanov2025mapfm,
+  title={Mapfm: Foundation model-driven hd mapping with multi-task contextual learning},
+  author={Ivanov, Leonid and Yuryev, Vasily and Yudin, Dmitry},
+  booktitle={International Conference on Hybrid Artificial Intelligence Systems},
+  pages={28--40},
+  year={2025},
+  organization={Springer}
+}
+```
+```BibTeX
 @misc{ivanov2025mapfmfoundationmodeldrivenhd,
       title={MapFM: Foundation Model-Driven HD Mapping with Multi-Task Contextual Learning}, 
       author={Leonid Ivanov and Vasily Yuryev and Dmitry Yudin},
